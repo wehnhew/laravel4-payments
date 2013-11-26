@@ -2,7 +2,7 @@
 
 Laravel 4 的支付网关.
 
-[![Latest Stable Version](https://poser.pugx.org/wehnhew/laravel4-payments/v/stable.png)](https://packagist.org/packages/wehnhew/laravel4-payments)[![Total Downloads](https://poser.pugx.org/wehnhew/laravel4-payments/downloads.png)](https://packagist.org/packages/wehnhew/laravel4-payments)
+[![Latest Stable Version](https://poser.pugx.org/wehnhew/laravel4-payments/v/stable.png)](https://packagist.org/packages/wehnhew/laravel4-payments) [![Total Downloads](https://poser.pugx.org/wehnhew/laravel4-payments/downloads.png)](https://packagist.org/packages/wehnhew/laravel4-payments)
 
 ### 安装
 
