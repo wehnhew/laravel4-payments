@@ -1,14 +1,15 @@
 {
     "name": "wehnhew/laravel4-payments",
     "description": "Larave payment gateway adapter.",
-    "keywords": ["laravel4", "gateway", "alipay", "chinabank"],
+    "keywords": ["laravel4", "payment", "alipay", "chinabank"],
     "homepage": "https://github.com/wehnhew/laravel4-payments",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "wehnhew",
-            "email": "chenhanwen@163.com"
+            "email": "chenhanwen@163.com",
+			"homepage": "http://www.wenphp.com",
+			"role": "Developer"
         }
     ],
     "require": {
@@ -16,9 +17,6 @@
         "illuminate/support": "~4"
     },
     "autoload": {
-        "classmap": [
-
-        ],
         "psr-0": {
             "Wehnhew\\Payments\\": "src/"
         }
