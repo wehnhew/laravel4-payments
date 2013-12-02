@@ -2,12 +2,12 @@
 
 Laravel 4 的支付网关.
 
-[![Latest Stable Version](https://poser.pugx.org/wehnhew/laravel4-payments/v/stable.png)](https://packagist.org/packages/wehnhew/laravel4-payments) [![Total Downloads](https://poser.pugx.org/wehnhew/laravel4-payments/downloads.png)](https://packagist.org/packages/wehnhew/laravel4-payments)
+[![Latest Stable Version](https://poser.pugx.org/wehnhew/payments/v/stable.png)](https://packagist.org/packages/wehnhew/payments) [![Total Downloads](https://poser.pugx.org/wehnhew/payments/downloads.png)](https://packagist.org/packages/wehnhew/payments)
 
 ### 安装
 
-- [laravel4-payments on Packagist](https://packagist.org/packages/laravel4-payments)
-- [laravel4-payments on GitHub](https://github.com/wehnhew/laravel4-payments)
+- [payments on Packagist](https://packagist.org/packages/payments)
+- [payments on GitHub](https://github.com/wehnhew/laravel4-payments)
 
 只要在你的 `composer.json` 文件require中加入下面内容，就能获得最新版.
 
